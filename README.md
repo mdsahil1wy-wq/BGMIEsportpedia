@@ -1,2 +1,2 @@
 # BGMIEsportpedia
-all abot bgmi scene.
+all about bgmi scene.
